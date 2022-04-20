@@ -1,5 +1,8 @@
 # JJ50
 
+Hello, this is my attemp of a setup based on ABNT2 for the JJ50 keyboard. Based on the keymap_br_abnt2.h found on the QMK firmware.
+This layout is still in progress, updates will be applied as I get more used to this keyboard.
+
 ![JJ50 + SA Vilebloom (w/ Sakurios) by u/rendleshift](https://i.imgur.com/SwYZ4wol.jpg)
 
 A compact 50% (5x12) ortholinear keyboard made and sold by KPrepublic.
